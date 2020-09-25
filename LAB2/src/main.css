@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(200, 200, 200, 0.5);
+}
+
+.button-scope {
+    padding-top: 1rem;
+}
+
+.button {
+    margin: 0.5rem;
+}
+
